@@ -1,6 +1,6 @@
 # 🌐 m223rx – Simple Platformer Web Game
 
-![Weather Web App Screenshot](./assets/screenshots/home.png)
+![Simple Platformer Web Game](./assets/screenshots/home.png)
 
 ---
 
