@@ -1,6 +1,6 @@
 # 🌐 m223rx – Simple Platformer Web Game
 
-![Simple Platformer Web Game](./assets/screenshots/home.png)
+![Simple Platformer Web Game Screenshot](./assets/screenshots/home.png)
 
 ---
 
