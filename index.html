@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple Platformer</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+
+<body>
+    <h1>Simple Platformer</h1>
+    <div class="score">Score: <span id="score">0</span></div>
+    <div class="game-container">
+        <div id="player"></div>
+        <div class="platform" style="left: 50px; top: 300px;"></div>
+        <div class="platform" style="left: 200px; top: 200px;"></div>
+        <div class="platform" style="left: 400px; top: 350px;"></div>
+    </div>
+    <div id="game-over" class="hidden">
+        <h2>Game Over</h2>
+        <button id="restart">Restart</button>
+    </div>
+
+    <script src="js/controller.js"></script>
+</body>
+
+</html>
